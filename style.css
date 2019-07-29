@@ -1,8 +1,7 @@
-
 .block + .block {
   margin-top: 10px;
 }
 
-.blocks-input {
+.block-of-input {
   margin-bottom: 20px;
 }
